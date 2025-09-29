@@ -36,7 +36,7 @@ public class Main {
             System.out.println("Если возраст человека " + age1 + ", то ему нужно ходить в детский сад" );
         } else if (age1 >=7 && age1 <=17){
             System.out.println("Если возраст человека " + age1 + ", то ему нужно ходить в школу");
-        } else if (age1 >=17 && age1 <=24){
+        } else if (age1 >=18 && age1 <=24){
             System.out.println("Если возраст человека " + age1 + ", то его место в университете.");
         } else {
             System.out.println("Если возраст человека " + age1 + ", то ему пора ходить на работу");
